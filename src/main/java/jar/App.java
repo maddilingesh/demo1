@@ -1,4 +1,4 @@
-package jar;
+package war;
 
 /<!-- Created by Larry Kiprono-->
 
